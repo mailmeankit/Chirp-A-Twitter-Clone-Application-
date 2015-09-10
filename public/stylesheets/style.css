@@ -1,0 +1,37 @@
+body {
+2		padding-top:70px;
+3		width: 100%;
+4	    height: 100%;
+5		width: 100%;
+6	    height: 100%;
+7	    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+8	}
+9	
+10	a {
+11		color: #00B7FF;
+12	}
+13	
+14	.submit-btn {
+15		background-color: #b1dbff;
+16		margin: 10px 0 10px 0;
+17	}
+18	
+19	.post {
+20		padding: 10px;
+21		margin-bottom: 5px;
+22		border-radius: 5px;
+23	}
+24	
+25	.odd {
+26		background-color: #f2f9ff;
+27		
+28	}
+29	.even {
+30		background-color: #eceff3;
+31	}
+32	
+33	.form-auth {
+34		max-width: 330px;
+35		padding: 5px;
+36		margin: 0 auto;
+37	}
